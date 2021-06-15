@@ -1,0 +1,6 @@
+// compiles .scss from various _index.scss files
+
+@use '0-base';
+@use '1-pages';
+@use '2-components';
+@use '3-helpers';
